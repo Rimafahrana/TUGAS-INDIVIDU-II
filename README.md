@@ -35,7 +35,8 @@
 
 JAWAB: A interpreter adalah mengorpersi kode menjadi machine code setelah dijalankan.
           contohnya: PHP,ASP dan PYTHON.
-       B Compailes adalah kode untuk dikonversi sebelum menjalankan program
+         
+  B Compailes adalah kode untuk dikonversi sebelum menjalankan program
           contohnya: visual basic,fortan,pascal.
        
 7. perbedaan python denga pl lainnya?
