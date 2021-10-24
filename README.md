@@ -32,6 +32,7 @@
          
  6.perbedaan interpreter dan compailer.sebutkan cotohnya?
 
+
 JAWAB: A interpreter adalah mengorpersi kode menjadi machine code setelah dijalankan.
           contohnya: PHP,ASP dan PYTHON.
        B Compailes adalah kode untuk dikonversi sebelum menjalankan program
