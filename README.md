@@ -32,9 +32,10 @@
          
  6.perbedaan interpreter dan compailer.sebutkan cotohnya?
 
-JAWAB: A. Interpreter, penerjemah SC agar dijelaskan oleh komputer:python
+JAWAB:
+A. Interpreter, penerjemah SC agar dijelaskan oleh komputer:python
 
-   B.Compailer,mengompersi SC ke mesin kode:cpp,java
+B.Compailer,mengompersi SC ke mesin kode:cpp,java
        
 7. perbedaan python denga pl lainnya?
 
