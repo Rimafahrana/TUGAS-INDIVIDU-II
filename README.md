@@ -32,12 +32,9 @@
          
  6.perbedaan interpreter dan compailer.sebutkan cotohnya?
 
+JAWAB: A. Interpreter, penerjemah SC agar dijelaskan oleh komputer:python
 
-JAWAB: A interpreter adalah mengorpersi kode menjadi machine code setelah dijalankan.
-          contohnya: PHP,ASP dan PYTHON.
-         
-  B Compailes adalah kode untuk dikonversi sebelum menjalankan program
-          contohnya: visual basic,fortan,pascal.
+   B.Compailer,mengompersi SC ke mesin kode:cpp,java
        
 7. perbedaan python denga pl lainnya?
 
